@@ -1,4 +1,5 @@
 # Week 1 day 5. JS Object lab2
+
 ### Lab: Brainstorm
 
 In your teams, brainstorm abstractions and models you might use for your
